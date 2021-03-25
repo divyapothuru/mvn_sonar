@@ -9,7 +9,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
 <url>http://maven.apache.org</url> 
 <properties>
 <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-<sonar.host.url>http://104.197.100.227:9000</sonar.host.url>
+<sonar.host.url>http://35.223.152.189:9000</sonar.host.url>
 <sonar.login>admin</sonar.login> 
 <sonar.password>admin123</sonar.password>
 </properties>
